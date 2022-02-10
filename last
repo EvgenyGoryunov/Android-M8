@@ -1,0 +1,46 @@
+//            System.out.println(files);
+//            System.out.println(files1);
+//                System.out.println(files);
+//                        System.out.println(files1);
+//            System.out.println(files);
+//            System.out.println(qqqq);
+//            System.out.println(aaaa);
+//            System.out.println(qqqq + "." + aaaa);
+//            System.out.println("-------------------");
+//            System.out.println(path2);
+//            System.out.println(path1);
+
+//        File file1 = new File("D:\\test1", "20210228_160456.jpg");
+
+//        получили дату в секундах
+//        long mod = file1.lastModified();
+//        System.out.println(mod);
+
+//        вывод даты в формате год.месяц (например 2021.04)
+//        SimpleDateFormat modmod = new SimpleDateFormat("yyyy.MM");
+//        System.out.println(modmod.format(mod));
+
+//        проверяет, является ли папка директорией (выдает либо тру, либо фолсе
+//        boolean isDir = file.isDirectory();
+//        boolean isDir = file.();
+//        System.out.println(isDir);
+
+//        создает папку по указанному выше пути
+//        boolean isMake = file.mkdir();
+//        System.out.println(isMake);
+
+//        преобразовать секунды в нормальное число
+//        SimpleDateFormat modmod = new SimpleDateFormat("dd.MM.yyyy HH:mm:ss");
+
+
+//        String[] listfiles = file.list();
+//        String[] modfiles = file.lastModified();
+//        for (long files : modfiles) {
+//            System.out.println(files);
+//        }
+
+//        long modfiles = file.lastModified();
+//        for (long files : modfiles) {
+//            System.out.println(files);
+//        }
+
